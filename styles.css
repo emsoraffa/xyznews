@@ -1,0 +1,133 @@
+body {
+    font-family: 'Arial';
+}
+
+h1 {
+    color: rgb(0, 149, 255);
+    font-size: 48px;
+    font-weight: bolder;
+   
+}
+
+
+.box {
+    margin: 2px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 95%;
+    height: 1200px;
+    background-color: whitesmoke;
+}
+
+.navbar {
+    margin: 2px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 95%;
+    height: 50px;
+    background-color: black;
+    padding-top: 30px;
+    
+}
+
+.navbartext {
+    color: antiquewhite;
+    font-size: larger;
+    margin-right: 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.footer {
+    margin: 2px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 95%;
+    height: 100px;
+    background-color: gray;
+    
+}
+
+.footersection {
+    margin: 10%;
+    border: 1px;
+    padding: 1px;
+    width: 15%;
+    height: 50px;
+    
+}
+
+.footertext {
+    color: antiquewhite;
+    font-size: medium;
+}
+
+.submit {
+    background-color: white;
+    color: rgb(0, 149, 255);
+    border-color: rgb(0, 149, 255);
+    width: 100px;
+    height: 36px;
+    border-radius: 2px;
+    cursor: pointer;
+    border-style: solid;
+    transition: background-color 0.5s,
+    color 0.5s;
+}
+
+.submit:hover {
+    background-color: rgb(0, 149, 255);
+    color: #fff;
+}
+
+.submit:active {
+    opacity: 0.7;
+}
+
+textarea {
+    resize: none;
+}
+
+.article-info {
+    margin-top: 0px;
+    font-size: 13px;
+    color: rgb(127, 111, 111);
+
+}
+
+.article {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.searchbar {
+    margin-left: 100px;
+    margin-bottom: 30px;
+    height: 30px;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+}
+
+#ps5 {
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 30%;
+    margin-top: 10%;
+}
+
+#wallstreet {
+    width: 300px;
+}
+
+.articles {
+    display: inline-block;
+    width: 400px;
+}
+
+.illustrations {
+    display: inline-block;
+    width: 200px;
+    height: 700px;
+    vertical-align: top;
+}
