@@ -68,6 +68,7 @@ button {
 
 }
 
+/*
 button:hover {
     border: 2px;
     border-style: solid;
@@ -75,7 +76,7 @@ button:hover {
     background-color: #fff;
     color: #000;
 }
-
+*/
 
 button:active{
     background-color: #432874;
